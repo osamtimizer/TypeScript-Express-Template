@@ -14,9 +14,7 @@
     "http-errors": "^1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.0",
-    "serve-favicon": "~2.4.5"
-  },
-  "devDependencies": {
+    "serve-favicon": "~2.4.5",
     "@types/express": "^4.16.0",
     "@types/mongoose": "^5.0.18",
     "@types/node": "^10.3.5",
@@ -28,5 +26,6 @@
     "ts-node": "^7.0.0",
     "typescript": "^2.9.2",
     "typings": "^2.1.1"
-  }
+  },
+  "devDependencies": {}
 }
